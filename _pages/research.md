@@ -129,7 +129,7 @@ Ruben Grandia, <b>Andrew J. Taylor</b>, Andrew Singletary, Marco Hutter, and Aar
 </p>
 
 <p>
-<b>Andrew J. Taylor</b>, Andrew Singletary, Yisong Yue, and Aaron D. Ames, "Learning for Safety-Critical Control with Control Barrier Functions" in <i>Proceedings of the 2nd Conference on Learning for Dynamics and Control (L4DC)</i>, Berkeley, CA, USA, 2020, pp. 708-717.
+<b>Andrew J. Taylor</b>, Andrew Singletary, Yisong Yue, and Aaron D. Ames, "Learning for Safety-Critical Control with Control Barrier Functions", in <i>Proceedings of the 2nd Conference on Learning for Dynamics and Control (L4DC)</i>, Berkeley, CA, USA, 2020, pp. 708-717.
 </p>
 
 <p>

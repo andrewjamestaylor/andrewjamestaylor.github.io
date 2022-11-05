@@ -13,7 +13,10 @@ feature_row_1:
     excerpt: Anil Alan, <b>Andrew J. Taylor</b>, Chaozhe R. He, Gabor Orosz, and Aaron D. Ames, <i>IEEE Control Systems Letter</i>, vol. 6, pp. 908-913, 2021. <br> <br> <b>Abstract:</b> To bring complex systems into real world environments in a safe manner, they will have to be robust to uncertainties---both in the environment and the system.  This paper investigates the safety of control systems under input disturbances, wherein the disturbances can capture uncertainties in the system.  Safety, framed as forward invariance of sets in the state space, is ensured with the framework of control barrier functions (CBFs). Concretely, the definition of input-to-state safety (ISSf) is generalized to allow the synthesis of non-conservative, tunable controllers that are provably safe under varying disturbances. This is achieved by formulating the concept of tunable input-to-state safe control barrier functions (TISSf-CBFs), which guarantee safety for disturbances that vary with state and, therefore, provide less conservative means of accommodating uncertainty. The theoretical results are demonstrated with a simple control system with input disturbance and also applied to design a safe connected cruise controller for a heavy duty truck.
     url: "assets/paper_materials/alan2021safe_controller_synthesis_with_tunable_input_to_state_safe_control_barrier_functions/paper.pdf"
     btn_label: "Paper"
-
+    url2: "https://youtu.be/2r72_nNGbQk"
+    btn_label2: "Presentation Video"
+    url3: "assets/paper_materials/alan2021safe_controller_synthesis_with_tunable_input_to_state_safe_control_barrier_functions/presentation_slides.pdf"
+    btn_label3: "Presentation Slides"
 
 feature_row_2:
   - image_path: assets/images/truck.png
