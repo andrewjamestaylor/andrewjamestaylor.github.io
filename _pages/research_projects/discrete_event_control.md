@@ -8,7 +8,7 @@ intro:
     excerpt: TBD
 
 feature_row_1:
-  - image_path: assets/paper_materials/taylor2020safety_critical_event_triggered_control_via_input_to_state_safe_barrier_functions/cex_both.jpg
+  - image_path: assets/paper_materials/taylor2020safety_critical_event_triggered_control_via_input_to_state_safe_barrier_functions/cex_both.png
     title: "Safety-Critical Event-Triggered Control via Input-to-State Safe Barrier Functions"
     excerpt: <b>Andrew J. Taylor</b>, Pio Ong, Jorge Cortés, and Aaron D. Ames, <i>IEEE Control Systems Letters</i>, vol. 5, no. 3, pp. 749-754, 2021. <br> <br> <b>Abstract:</b> The efficient utilization of available resources while simultaneously achieving control objectives is a primary motivation in the event-triggered control paradigm. In many modern control applications, one such objective is enforcing the safety of a system. The goal of this paper is to carry out this vision by combining event-triggered and safety-critical control design. We discuss how a direct transcription, in the context of safety, of event-triggered methods for stabilization may result in designs that are not implementable on real hardware due to the lack of a minimum interevent time. We provide an example showing this phenomena and, building on the insight gained,  propose an event-triggered control approach via Input-to-State Safe Barrier Functions that achieves safety while ensuring that interevent times are uniformly lower bounded.
     url: "assets/paper_materials/taylor2020safety_critical_event_triggered_control_via_input_to_state_safe_barrier_functions/paper.pdf"
