@@ -5,7 +5,11 @@ classes: wide
 
 intro:
   - title: "Adaptive Control for Safety-Critical Systems"
-    excerpt: TBD
+    excerpt: "Adaptive control is a classic tool for resolving parametric errors
+              in a system model by estimating parameters online as a system evolves.
+              My work has focused on extending these classical tools to the task
+              of safety-critical control while understanding fundamental limits
+              on safety in the face of parametric model error."
 
 feature_row_1:
   - image_path: /assets/images/adaptive_lienard_system.png

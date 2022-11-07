@@ -5,7 +5,12 @@ classes: wide
 
 intro:
   - title: "Robust Perception-Based Control"
-    excerpt: TBD
+    excerpt: "Vision-based sensing systems are becoming increasingly common on
+              robotic platforms, suggesting the need to understand the impact
+              of corresponding measurement errors on the safety of a system. My
+              work has focused on the development of computationally efficient
+              safety-critical control tools that provide robustness to measurement
+              error and can be deployed on real-world robots."
 
 feature_row_1:
   - image_path: assets/paper_materials/dean2020guaranteeing_safety_of_learned_perception_modules_via_measurement_robust_control_barrier_functions/camera_feed_enhanced.png

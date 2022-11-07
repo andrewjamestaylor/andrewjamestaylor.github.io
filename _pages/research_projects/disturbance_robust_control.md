@@ -5,7 +5,12 @@ classes: wide
 
 intro:
   - title: "Disturbance Robust Safety-Critical Control"
-    excerpt: TBD
+    excerpt: "Unmodeled disturbances are a classical challenge in control system
+              design that lead to performance limits and degradation in safety.
+              My work has explored robust safety-critical control designs that
+              balance the tradeoff between regulating safety degradation while
+              achieving meaningful performance. This design has been realized
+              on a full-scale automated semi-trailer truck."
 
 feature_row_1:
   - image_path: assets/paper_materials/alan2021safe_controller_synthesis_with_tunable_input_to_state_safe_control_barrier_functions/issf_example.JPG

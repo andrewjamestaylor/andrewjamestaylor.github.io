@@ -5,7 +5,13 @@ classes: wide
 
 intro:
   - title: "Discrete-Event Control"
-    excerpt: TBD
+    excerpt: "Cyber-physical control system are often implemented using digital
+              computers that sample sensors and command inputs to actuators.
+              This discrete implementation contrasts with the underlying
+              <b>continuous</b> physics of a system. My work has focused on rigorously
+              constructing stabilizing and safety-critical controllers in this
+              setting, either through efficient <b>event-triggered</b> formulations,
+              or using <b>approximate</b> discrete time models and convex optimization."
 
 feature_row_1:
   - image_path: assets/paper_materials/taylor2021safety_critical_event_triggered_control_via_input_to_state_safe_barrier_functions/cex_both.png

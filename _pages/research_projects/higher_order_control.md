@@ -5,7 +5,12 @@ classes: wide
 
 intro:
   - title: "Safety-Critical Control for Higher-Order Systems"
-    excerpt: TBD
+    excerpt: "Constructing rigorous control system designs for high-dimensional,
+              complex nonlinear systems can be exceptionally difficult. Classical
+              tools from nonlinear control theory such as backstepping provide a
+              constructive framework for designing controllers using simplified
+              models that yield designs for full-order models. My work focuses
+              on extending these tools to the safety-critical control setting."
 
 feature_row_1:
   - image_path: assets/images/backstepping_unicycle_avoid.png

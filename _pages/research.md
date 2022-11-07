@@ -5,7 +5,14 @@ classes: wide
 
 intro:
   - title: "Research Overview"
-    excerpt: "TBD"
+    excerpt: "My research has focused on two overarching challenges: designing
+    <b>robust</b> controllers for systems with <b>uncertainty</b>, and
+    constructing <b>hierarchical</b> control frameworks for complex nonlinear
+    systems. The following categories highlight the different uncertainties and
+    hierarchical control frameworks I have studied. Click the text links to see
+    more about a specific research challenge and my work on the topic. A
+    complete list of my publications and invited presentations may be found at
+    the bottom of the page."
 
 feature_row_1:
   - image_path: ../assets/images/safety_gait_tiles.png

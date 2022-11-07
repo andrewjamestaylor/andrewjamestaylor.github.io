@@ -5,7 +5,15 @@ classes: wide
 
 intro:
   - title: "Model Predictive Nonlinear Control"
-    excerpt: TBD
+    excerpt: "Model predictive control is a powerful tool for controlling complex,
+              underactuated robotic systems that incorporates a model-based predictive
+              horizon into the feedback loop. The resulting computational demands
+              often exceed what can be achieved in real-time, necessitating
+              a multi-layered hierarchical control architecture that blend predictive
+              planning with high-speed low-level control tools. My work has focused on
+              how the stability and safety requirements enforced by these low-level
+              control tools can be incorporated into a model-predictive planner, ensuring
+              a consistent specification of control objectives across planning and control layers."
 
 feature_row_1:
   - image_path: assets/paper_materials/grandia2020nonlinear_model_predictive_control_of_robotic_systems_with_control_lyapunov_functions/wedding_cake.png

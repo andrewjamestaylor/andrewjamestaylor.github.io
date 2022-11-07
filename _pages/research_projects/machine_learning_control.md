@@ -5,7 +5,14 @@ classes: wide
 
 intro:
   - title: "Machine Learning for Nonlinear Control"
-    excerpt: TBD
+    excerpt: "Designing model-based controllers for real-world systems is
+              regularly complicated by imperfections in the system model, known
+              as <b>model uncertainty</b>. Recent advances in the field of
+              machine learning have enabled <b>data-driven</b> methods for
+              reducing model uncertainty. My work has sought to rigorously unify
+              techniques for safety-critical control with tools from machine
+              learning with the goal of producing robust yet performant control
+              designs that I can demonstrate on robotic systems."
 
 feature_row_1:
   - image_path: assets/paper_materials/taylor2019episodic_learning_with_control_lyapunov_functions_for_uncertain_robotic_systems/episodic_learning.png
