@@ -41,6 +41,10 @@ feature_row_3:
     excerpt: <b> Andrew J. Taylor</b>, Victor D. Dorobantu, Ryan K. Cosner, Yisong Yue, and Aaron D. Ames, in <i>Proceedings of the IEEE 61st Conference on Decision and Control (CDC)</i>, Cancún, Mexico, 2022. <br> <br> <b>Abstract:</b> Control Barrier Functions (CBFs) have been demonstrated to be powerful tools for safety-critical controller design for nonlinear systems. Existing CBF-based design paradigms do not address the gap between theory (controller design with continuous time models) and practice (the discrete time sampled implementation of the resulting controllers); this can lead to poor closed-loop behavior and violations of safety for hardware instantiations.  We propose an approach to close this gap by synthesizing sampled-data counterparts to these CBF-based controllers using approximate discrete time models and <i>Sampled-Data Control Barrier Functions (SD-CBFs)</i>. Using properties of a system's continuous time model, we establish a relationship between SD-CBFs and a notion of <i>practical safety</i> for sampled-data systems. Furthermore, we construct convex optimization-based controllers that formally endow nonlinear systems with safety guarantees in practice. We demonstrate the efficacy of these controllers in simulation.
     url: "assets/paper_materials/taylor2022safety_of_sampled_data_systems_with_control_barrier_functions_via_approximate_discrete_time_models/paper.pdf"
     btn_label: "Paper"
+    url2: "https://youtu.be/z7YHwJVqAOI"
+    btn_label2: "Presentation Video"
+    url3: "assets/paper_materials/taylor2022safety_of_sampled_data_systems_with_control_barrier_functions_via_approximate_discrete_time_models/presentation_slides.pdf"
+    btn_label3: "Presentation Slides"
 ---
 
 {% include feature_row id = "intro" type = "center" %}
