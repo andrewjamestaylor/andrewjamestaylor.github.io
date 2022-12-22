@@ -153,6 +153,7 @@ Ruben Grandia, <b>Andrew J. Taylor</b>, Andrew Singletary, Marco Hutter, and Aar
 
 <h1 align = "center">Invited Presentations</h1>
 
-<p>
+Sarah Dean, <b> Andrew Taylor</b>, "Towards Certifiably Safe Nonlinear Control with Sensor and Dynamics Uncertainties", <i>NeurIPS 5th Robot Learning Workshop: Trustworthy Robotics</i>, [Recorded Presentation](https://youtu.be/v_707BM1mwE), 2022.
+<br>
+
 <b>Andrew J. Taylor</b>, "A Control Lyapunov Function Approach to Episodic Learning", <i>1st Conference on Learning for Dynamics and Control (L4DC)</i>, Poster Presentation, 2019.
-</p>
