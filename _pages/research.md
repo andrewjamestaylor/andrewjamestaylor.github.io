@@ -60,6 +60,10 @@ feature_row_3:
 <h2 align = "center"> Preprints </h2>
 
 <p>
+Ryan K. Cosner, Preston Culbertson, <b>Andrew J. Taylor</b>, Aaron D. Ames, "Robust Safety under Stochastic Uncertainty with Discrete-Time Control Barrier Functions", submitted to <i>Robotics: Sciences and Systems XIX (RSS)</i>, 2023. 
+</p>
+
+<p>
 Kim P. Wabersich, <b>Andrew J. Taylor</b>, Jason J. Choi, K. Sreenath, Claire J. Tomlin, Aaron D. Ames, and Melanie N. Zeilinger, "Data-Driven Safety Filters: Hamilton-Jacobi Reachability, Control Barrier Functions, and Predictive Methods for Uncertain Systems", submitted to <i>IEEE Control Systems</i>, 2022.
 </p>
 
